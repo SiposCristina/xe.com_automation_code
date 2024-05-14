@@ -5,4 +5,4 @@ Xe.com offers various free online currency tools, including the Xe Currency Conv
 <h3>Description</h3><br> <p>The script automates the process of currency conversion and chart viewing on the XE.com website. It interacts with various elements such as input fields, and buttons, to simulate user actions and extract relevant information.</p><br>
 <h3>Results</h3><br>
 
-![image](https://github.com/SiposCristina/xe.com_automation_code/assets/157922599/fa28bdba-8057-4742-b0ca-6910a94d1430)
+
