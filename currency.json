@@ -1,0 +1,176 @@
+[
+   {
+    "From": "USD",
+    "TO": "EUR" 
+   },
+
+   {
+    "From": "CAD",
+    "TO": "USD" 
+   },
+
+   {
+    "From": "JPY",
+    "TO": "CHF" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "GBP" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "CAD" 
+   },
+
+   {
+    "From": "CHF",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "AUD" 
+   },
+
+   {
+    "From": "NZD",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "HUF" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "CZK" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "NOK" 
+   },
+
+  {
+    "From": "EUR",
+    "TO": "PLN" 
+   },
+
+   {
+    "From": "EUR",
+    "TO": "RON" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "HUF" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "CZK" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "NOK" 
+   },
+
+  {
+    "From": "USD",
+    "TO": "PLN" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "RON" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "SEK" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "RUB" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "SGD" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "THB" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "TRY" 
+   },
+   
+   {
+    "From": "USD",
+    "TO": "ZAR" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "ILS" 
+   },
+
+   {
+    "From": "USD",
+    "TO": "MXN" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "SEK" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "HUF" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "NOK" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "PLN" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "SEK" 
+   },
+   
+   {
+    "From": "GBP",
+    "TO": "SGD" 
+   },
+
+   {
+    "From": "GBP",
+    "TO": "TRY" 
+   }
+]
