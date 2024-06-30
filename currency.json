@@ -1,4 +1,54 @@
 [
+    {
+    "From": "EUR",
+    "TO": "USD" 
+    },
+
+    {
+    "From": "USD",
+    "TO": "JPY" 
+    },
+
+    {
+    "From": "GBP",
+    "TO": "USD" 
+    },
+
+    {
+    "From": "AUD",
+    "TO": "USD" 
+    },
+
+    {
+    "From": "GBP",
+    "TO": "AUD" 
+    },
+
+    {
+    "From": "EUR",
+    "TO": "CAD" 
+    },
+  
+    {
+    "From": "USD",
+    "TO": "CAD" 
+    },
+
+    {
+    "From": "USD",
+    "TO": "CNY" 
+    },
+
+    {
+    "From": "USD",
+    "TO": "CHF" 
+    },
+
+    {
+    "From": "EUR",
+    "TO": "CHF" 
+    },      
+
    {
     "From": "USD",
     "TO": "EUR" 
@@ -7,6 +57,31 @@
    {
     "From": "CAD",
     "TO": "USD" 
+   },
+
+   {
+    "From": "CAD",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "AUD",
+    "TO": "JPY" 
+   },
+
+   {
+    "From": "AUD",
+    "TO": "CAD" 
+   },
+
+   {
+    "From": "AUD",
+    "TO": "CHF" 
+   },
+
+   {
+    "From": "AUD",
+    "TO": "NZD" 
    },
 
    {
@@ -75,6 +150,11 @@
    },
 
    {
+    "From": "EUR",
+    "TO": "TRY" 
+   },
+
+   {
     "From": "USD",
     "TO": "HUF" 
    },
@@ -123,7 +203,7 @@
     "From": "USD",
     "TO": "TRY" 
    },
-   
+      
    {
     "From": "USD",
     "TO": "ZAR" 
@@ -137,11 +217,6 @@
    {
     "From": "USD",
     "TO": "MXN" 
-   },
-
-   {
-    "From": "GBP",
-    "TO": "SEK" 
    },
 
    {
