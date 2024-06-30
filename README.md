@@ -6,6 +6,6 @@ Xe.com offers various free online currency tools, including the Xe Currency Conv
 <p>The script navigates to the XE homepage, and then to the corresponding currency conversion page on XE for each currency pair specified in the “currency.json” file. The script reads the “currency.json” file and its contents are parsed from JSON format into a JavaScript object named “currencies”. JSON file contains major, minor, and exotic currency pairs. The script iterates over each currency in the “currencies” object. For each currency, it navigates to the XE currency converter page with the specified conversion parameters (“From” and “To” currencies). Next, the script takes screenshots of the conversion results and saves them with filenames indicating the currency pairs.</p>
 <h3>Results</h3><br>
 <p>The script successfully automates the currency conversion process and captures screenshots of the conversion results. These screenshots are saved in the local directory, with each file named according to the currency pair it represents (e.g., “XE-USD-EUR.png”).</p>
-<p>Find below the saved screenshots.</p>
+<p>Find below the saved screenshots of the generated results for currency.json file.</p>
 
 
