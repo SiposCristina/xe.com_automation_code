@@ -7,7 +7,7 @@ Xe.com offers various free online currency tools, including the Xe Currency Conv
 <br>
 The script iterates over each currency in the “currencies” object. For each currency, it navigates to the XE currency converter page with the specified conversion parameters such as the “Amount” (fixed at 1000), “From” (source currency), and “To” (target currency). The URL is dynamically constructed using “From” and “To” values from the “currencies” object.<br>
 <br>
-Next, the script takes screenshots of the conversion results and saves them with filenames indicating the currency pairs.</p><br>
+Next, the script takes screenshots of the conversion results and saves them with filenames indicating the currency pairs.</p>
 <p>The automated script, through its captured screenshots, helps the tester verify the conversion results' accuracy and ensure that the correct currency pairs were used.</p>
 
 
