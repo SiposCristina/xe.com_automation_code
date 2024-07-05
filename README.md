@@ -12,6 +12,7 @@ Xe.com offers various free online currency tools, including the Xe Currency Conv
 
 <h3>Results</h3><br>
 <p>The script successfully automates the currency conversion process and captures screenshots of the conversion results. These screenshots are saved in the local directory, with each file named according to the currency pair it represents (e.g., “XE-USD-EUR.png”).</p>
+<p>The automated script, through its captured screenshots, helps the tester verify the conversion results' accuracy and ensure that the correct currency pairs were used.</p>
 <p>Find below the saved screenshots of the generated results for currency.json file.</p>
 
 
