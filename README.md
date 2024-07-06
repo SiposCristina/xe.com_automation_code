@@ -1,6 +1,6 @@
 # xe.com_automation_code
 <h3>Product Information</h3><br> <p> XE.com is an online currency converter application. It offers exchange rate information, international money transfers, and other currency-related services via its website, mobile apps, and other online channels.
-Xe.com offers various free online currency tools, including the XE Currency Converter, which allows visitors to check live exchange rates of any world currency. The website also offers free historical charts and rate tables. The company provides a foreign exchange service (XE Money Transfer) and a commercial currency data feed service (XE Currency Data) that offers accurate and reliable exchange rates for businesses. </p>
+XE.com offers various free online currency tools, including the XE Currency Converter, which allows visitors to check live exchange rates of any world currency. The website also offers free historical charts and rate tables. The company provides a foreign exchange service (XE Money Transfer) and a commercial currency data feed service (XE Currency Data) that offers accurate and reliable exchange rates for businesses. </p>
 
 <h3>Description</h3><br>
 <p>The script automates the process of navigating to the XE homepage, and then to the corresponding currency conversion page on XE for each currency pair specified in the “currency.json” file. The script reads the “currency.json” file and its contents are parsed from JSON format into a JavaScript object named “currencies”. JSON file contains major, minor, and exotic currency pairs.</p>
